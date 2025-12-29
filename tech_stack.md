@@ -1,29 +1,3 @@
-<h1 align="center">🛸 Hello, I'm Lalit
-
-
-</h1>
-
-<p align="center">Computer Science Major &#9679; AI/ML Team Lead @ GDSC </p>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=LoIe_9cTtPE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitm1004)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitm1004@gmail.com)
-
-</div>
-
-
-I'm into a bit of everything — building web apps, training ML models, and even crafting computers in Minecraft just for fun. Lately, I've been diving deeper into backend systems and infrastructure, learning how everything fits together behind the scenes.
-
-Right now, I'm leading a team of 18 on some exciting, ML-powered projects.
-
-## 🌀 Interests
-- Building CRUD apps (please... someone rescue me from this endless loop)
-- Getting back into reading after a long time 📖
-- Baking some insane brownies 🍫
-- Solving LeetCode problems in Rust to keep my job prospects as close to zero as possible 🦀
-
 
 ## 💻 Tech Stack
 ### 🧠 Languages
@@ -62,11 +36,3 @@ Right now, I'm leading a team of 18 on some exciting, ML-powered projects.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Helix](https://img.shields.io/badge/helix-281733.svg?style=for-the-badge\&logo=helix\&logoColor=white)
-
-#
-<br/>
-<div align="center">
-
-![Streak Counter](https://nirzak-streak-stats.vercel.app/?user=lalitm1004&theme=dark&hide_border=false)
-
-</div>
